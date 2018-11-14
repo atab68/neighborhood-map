@@ -22,11 +22,11 @@ display specific markers.
 
 - clone the project
 
-$git clone `https://github.com/atab68/project-map3.git`
+$git clone `https://github.com/atab68/neighborhood-map.git`
 
 - change the working directory 
 
-`$cd project-map3`
+`$cd neighborhood-map`
 
 ### Development mode
 

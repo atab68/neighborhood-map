@@ -1,0 +1,92 @@
+[
+  {
+    "name": "Gather",
+    "street": "4539 N Lincoln",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60625",
+    "url": "http://www.gatherchicago.com",
+    "pos": {"lat":41.964745,"lng":-87.684725}
+  },
+  {
+    "name": "Elizabeth",
+    "street": "4835 N Western Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60625",
+    "url": "http://www.elizabeth-restaurant.com/",
+    "pos": {"lat":41.970522,"lng":-87.685884}
+  },
+  {
+    "name": "Fin Sushi Bar",
+    "street": "1742 W Wilson",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60640",
+    "url": "https://www.finsushibar.net",
+    "pos": {"lat":41.965767,"lng":-87.672966}
+  },
+  {
+    "name": "Agami",
+    "street": "4712 N Broadway",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60640",
+    "url": "http://www.agamisushi.com/",
+    "pos": {"lat":41.967648,"lng":-87.659230}
+  },
+  {
+    "name": "Glenn's Diner",
+    "street": "1820 W Montrose Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "url": "http://www.glennsdiner.com/",
+    "pos": {"lat":41.961808,"lng":-87.675291}
+  },
+  {
+    "name": "Urban Vegan Thai/Asian vegan Restaurant",
+    "street": "1601 W Montrose",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "url": "http://www.urbanveganchicago.com/",
+    "pos": {"lat":41.961616,"lng":-87.669594}
+  },
+  {
+    "name": "Fork",
+    "street": "4600 N Lincoln",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60625",
+    "url": "https://www.forkchicago.net/",
+    "pos": {"lat":41.965092,"lng":-87.686402}
+  },
+  {
+    "name": "Spacca Napoli Pizzeria",
+    "street": "1769 W Sunnyside Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60640",
+    "url": "http://www.spaccanapolipizzeria.com/",
+    "pos": {"lat":41.963229,"lng":-87.673785}
+  },
+  {
+    "name": "El Maya",
+    "street": "1522 W Montrose Ave",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60613",
+    "url": "https://www.el-maya.com/",
+    "pos": {"lat":41.961762,"lng":-87.668669}
+  },
+  {
+    "name": "Gorilla Sushi Bar on Clark",
+    "street": "4617 N Clark",
+    "city": "Chicago",
+    "state": "IL",
+    "zip": "60640",
+    "url": "https://gorillasushibaronclark.com",
+    "pos": {"lat":41.965870,"lng":-87.666587}
+  }
+]
